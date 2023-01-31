@@ -1,0 +1,2 @@
+#Ignore assets folder and all subdirectories (trailing / specifies sub, while leading specifies its in the root)
+/assets/
